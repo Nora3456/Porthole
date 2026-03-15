@@ -5,7 +5,7 @@ import argparse
 
 
 def process_cidr_input():
-    """Processes the cidr notation a uuser gave to make sure it is valid."""
+    """Processes the CIDR notation a uuser gave to make sure it is valid."""
     while True:
         cidr_input = input("Enter your CIDR notation: ")
         try:
@@ -14,7 +14,7 @@ def process_cidr_input():
         except ValueError as e:
             print(f"Invalid CIDR: {e}")
             print("Try again.\n")
-
+            
 def parse_ports(port_input):
     """Parses port formats """
     ports = set()

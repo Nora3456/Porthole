@@ -25,8 +25,7 @@ Below is a detailed step-by-step walkthrough of how the porthole works!
 
 2. 🔍 |  You will be shown the amount of open ports (an open port means that a network communcication is activly accepting oncoming traffic). You will also be shown wether the IP address is "UP" (active) or "DOWN" (inactive). At the end of each line, you will be shown the time in milliseconds it took to process the request. 
 
-3. ✅ | If all the ports are shown, or you purposefully stopped the scan, then you will be given a scan complete message! Thsi messagae will tell you the amount of total hosts scanned, the amoutn of active hosts, the amount of down hosts, and any errors if they occured!
+3. ✅ | If all the ports are shown, or you purposefully stopped the scan, then you will be given a scan complete message! This messagae will tell you the amount of total hosts scanned, the amount of active hosts, the amount of down hosts, and any errors if they occured!
 
 ## Happy Scanning!
- 
- <img src="good-luck.gif" alt="Photo gif of Joey and Chandler from Friends giving thumbs up, wiyh the caption saying GOOD LUCK!!! width="200"/>  
+<img src="good-luck.gif" alt="Photo gif of Joey and Chandler from Friends giving thumbs up, with the caption saying GOOD LUCK!!!" width="200"/> 
